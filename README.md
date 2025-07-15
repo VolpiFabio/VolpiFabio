@@ -1,6 +1,6 @@
 ## Olá eu sou o Fábio👋
 
-- 🔭 Hoje trabalho como assistente de Product Owner
+- 🔭 Hoje trabalho como analista de dados
 - 🌱 Estudo banco de dados, Python, PowerBI
 - 💬 Contate-me no email: volpifabio.fvp@gmail.com
 
